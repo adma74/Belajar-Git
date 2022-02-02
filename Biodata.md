@@ -1,1 +1,2 @@
-Suryadi Admaja
+Nama : Suryadi Admaja
+Alamat : Lab. Lalar
